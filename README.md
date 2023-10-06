@@ -4,7 +4,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket and is a follow-up from the [previous](https://github.com/Hillpaw/osticket-prereqs) preqreuisite setup.<br />
+This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket and is a follow-up from the <a href="https://github.com/Hillpaw/osticket-prereqs/"> previous preqreuisite setup.
 
 
 <h2>Environments and Technologies Used</h2>
